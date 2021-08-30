@@ -70,7 +70,7 @@ const styles = StyleSheet.create({
       flex: 1,
       flexDirection: 'row',
       flexWrap: 'nowrap',
-      backgroundColor: 'rgba(52, 52, 52, 0.8)',
+      backgroundColor: 'rgba(100, 100, 100, 0.2)',
       elevation: 1,
       justifyContent: 'flex-start',
       alignItems: 'center',

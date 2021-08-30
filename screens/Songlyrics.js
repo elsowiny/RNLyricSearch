@@ -249,7 +249,7 @@ const styles = StyleSheet.create({
       
     },
     containerTwo: {
-      flex: 2,
+      flex: 2.5,
      backgroundColor: 'black',
      // alignItems: 'center',
       //justifyContent: 'center',
@@ -275,13 +275,6 @@ const styles = StyleSheet.create({
 
 
     },
-    fumiInputInside: {
-    //  width: '100%',
-    },
-    columnView: {
-    //  flex: 1,
-     // flexDirection: 'column',
-    },
     lyrics: {
      // flex: 1,
      color: 'white',
@@ -292,21 +285,6 @@ const styles = StyleSheet.create({
      // height: '100%',
 
 
-    },
-    inputContainer: {
-      flex: 1,
-      alignItems: 'center',
-      width: '100%',
-      height: '100%',
-      marginBottom: '40%',
-      
-      
-  
-    },
-    inputFumi: {
-      marginBottom: 20,
-      
-      
     },
     header: {
       flex: 1,
@@ -335,15 +313,6 @@ const styles = StyleSheet.create({
         color: 'white',
         marginLeft: '10%',
         textTransform: 'uppercase',
-    },
-    input: {
-      fontFamily: 'Audiowide_400Regular',
-      height: 40,
-      margin: 12,
-      borderWidth: 2,
-      padding: 10,
-      borderRadius: 5,
-      borderColor: 'white',
     },
     button: {
       fontFamily: 'Audiowide_400Regular',
@@ -377,8 +346,8 @@ const styles = StyleSheet.create({
     scrollView: {
        // backgroundColor: 'pink',
         marginHorizontal: 20,
-        marginTop: 20,
-        height: 50,
+        marginTop: -50,
+        //height: 0,
       },
       lyricsText: {
 
